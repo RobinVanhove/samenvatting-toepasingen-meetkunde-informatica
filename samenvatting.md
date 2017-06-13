@@ -12,7 +12,28 @@ header-includes:
 \part{Computergesteund Ontwerp van Curven en Oppervlakken}
 
 # Inleiding
-# Bezier-curven
+## Situering en Doel
+## Basisbegrippen
+### Punten en Vectoren
+### Curven en Oppervlakken
+### Segmentatie en lokale parameters
+### Affiene Transformaties
+### Convex Omhullende en Convexe Combinatie
+## Interpolerende veeltermcurven
+
+# Bézier-curven
+## Definities
+## Eigenschappen van Bernstein-veeltermen
+## Enkele Eigenschappen van Bézier-curven
+## Evaluatie van een Punt op een Bézier-curve
+## Afgeleiden van een Bézier-curve
+## Graadverhoging
+## Opsplitsing van een Bézier-curve
+## Samengestelde Bézier-curven
+## Ontwerp en Modellering van Complexe Bézier-curven
+## Toepassing: lettertypes voor laserprinters
+## Besluit
+
 # Splinecurven
 # Modellering van Oppervlakken
 
